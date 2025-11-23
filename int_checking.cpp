@@ -83,5 +83,6 @@ int main() {
     kiem_tra_co_may_chu_so(N);
     tim_so_dao_nguoc(N);
     //kim tra phep tinh
-
+    return 0;
 }
+
